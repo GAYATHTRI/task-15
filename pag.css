@@ -1,0 +1,31 @@
+{
+    <style>
+h2 {
+    color:green;
+}
+.pagination_section{
+    position:sticky
+}
+pagination_section a{
+    color:black;
+    padding:10px 18px;
+    text-decoration: aqua;
+}
+a.nth-child(5){
+    background-color:green;
+    color: white;
+
+}
+a:nth-child(1){
+    font-weight:bold;
+}
+.content{
+    margin: 50px;
+    padding: 15px;
+    width: 700px;
+    height: 200px;
+    border: 2px solid blanchedalmond;
+
+}
+</style>
+}
